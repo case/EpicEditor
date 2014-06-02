@@ -30,7 +30,7 @@ $ git clone git@github.com:OscarGodson/EpicEditor
 <div id="epiceditor"></div>
 ```
 
-Alternately, wrap an existing textarea to load the contents into th EpicEditor instance.
+Alternatively, wrap an existing textarea to load the contents into th EpicEditor instance.
 
 ```html
 <div id="epiceditor"><textarea id="my-edit-area"></textarea></div>
@@ -108,7 +108,7 @@ var editor = new EpicEditor(opts);
   </tr>
   <tr>
     <td><code>textarea</code></td>
-    <td>The ID (string) or element (object) of a textarea you would like to sync the editor's content with. On page load if there is content in the textarea, the editor will use that as it's content.</td>
+    <td>The ID (string) or element (object) of a textarea you would like to sync the editor's content with. On page load if there is content in the textarea, the editor will use that as its content.</td>
     <td></td>
   </tr>
   <tr>
