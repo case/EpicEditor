@@ -30,7 +30,7 @@ $ git clone git@github.com:OscarGodson/EpicEditor
 <div id="epiceditor"></div>
 ```
 
-Alternatively, wrap an existing textarea to load the contents into th EpicEditor instance.
+Alternatively, wrap an existing textarea to load the contents into the EpicEditor instance.
 
 ```html
 <div id="epiceditor"><textarea id="my-edit-area"></textarea></div>
